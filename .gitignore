@@ -1,0 +1,3 @@
+.DS_Store
+# Bản phẳng để tải lên release, sinh bằng tools/make_manifest.sh
+dist/
