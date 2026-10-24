@@ -1,5 +1,5 @@
 {
-  "tag": "assets-v1",
+  "tag": "assets-v2",
   "images": [
     { "name": "bg_avatar_frame", "file": "bg_avatar_frame.webp", "size": 43152 },
     { "name": "bg_card_time_forge_basic", "file": "bg_card_time_forge_basic.webp", "size": 165710 },
@@ -108,7 +108,7 @@
     { "name": "ic_house_luxury_2", "file": "ic_house_luxury_2.webp", "size": 83642 },
     { "name": "ic_house_military_1", "file": "ic_house_military_1.webp", "size": 181762 },
     { "name": "ic_house_military_2", "file": "ic_house_military_2.webp", "size": 164086 },
-    { "name": "ic_house_military_3", "file": "ic_house_military_3.webp", "size": 134430 },
+    { "name": "ic_house_military_3", "file": "ic_house_military_3.webp", "size": 130238 },
     { "name": "ic_house_modern", "file": "ic_house_modern.webp", "size": 104500 },
     { "name": "ic_house_mushroom", "file": "ic_house_mushroom.webp", "size": 111030 },
     { "name": "ic_house_stilt", "file": "ic_house_stilt.webp", "size": 186534 },
